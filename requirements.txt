@@ -1,0 +1,15 @@
+streamlit==1.50.0
+pandas==2.3.3
+numpy==2.0.2
+scikit-learn==1.6.1
+xgboost==2.1.4
+matplotlib==3.9.4
+seaborn==0.13.2
+
+pymongo==4.10.1
+dnspython==2.7.0
+python-dotenv==1.0.1
+
+protobuf==6.33.2
+altair==5.5.0
+pyarrow==21.0.0
