@@ -1,15 +1,27 @@
+# ---------------- CORE APP ----------------
 streamlit==1.50.0
-pandas==2.3.3
-numpy==2.0.2
+pandas==2.2.3
+
+# ---------------- NUMPY (PINNED FOR SHAP) ----------------
+numpy==1.26.4
+
+# ---------------- MACHINE LEARNING ----------------
 scikit-learn==1.6.1
 xgboost==2.1.4
+
+# ---------------- VISUALIZATION ----------------
 matplotlib==3.9.4
 seaborn==0.13.2
 
+# ---------------- MODEL EXPLAINABILITY ----------------
+shap==0.44.1
+
+# ---------------- DATABASE ----------------
 pymongo==4.10.1
 dnspython==2.7.0
 python-dotenv==1.0.1
 
-protobuf==6.33.2
+# ---------------- STREAMLIT DEPENDENCIES ----------------
+protobuf==4.25.3
 altair==5.5.0
-pyarrow==21.0.0
+pyarrow==15.0.2
