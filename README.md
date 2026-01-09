@@ -82,3 +82,8 @@ Telecom Churn Project/
 ├── Dataset/
 │ └── customer_churn_raw.csv
 └── README.md
+
+👤 Author
+
+Aadity Singh
+Aspiring Data Analyst | Machine Learning Enthusiast
